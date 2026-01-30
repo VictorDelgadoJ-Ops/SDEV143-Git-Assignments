@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.4">
+  <diagram name="Page-1" id="6IKG3deJyhQ2N5xa8Ts-">
+    <mxGraphModel dx="2077" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gok3XOKWScSPGN9I4u7a-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font size=&quot;3&quot;&gt;Git&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="GitHub" vertex="1">
+          <mxGeometry height="80" width="80" x="440" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="GitHub Repository" vertex="1">
+          <mxGeometry height="80" width="80" x="330" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Local Repository" vertex="1">
+          <mxGeometry height="80" width="80" x="200" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-5" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-1" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gok3XOKWScSPGN9I4u7a-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-6" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-3" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="gok3XOKWScSPGN9I4u7a-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-11" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="310" as="sourcePoint" />
+            <mxPoint x="120" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="sourcePoint" />
+            <mxPoint x="480" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-16" connectable="0" parent="gok3XOKWScSPGN9I4u7a-15" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Git push" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gok3XOKWScSPGN9I4u7a-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="120" as="sourcePoint" />
+            <mxPoint x="300" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="gok3XOKWScSPGN9I4u7a-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="sourcePoint" />
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-23" connectable="0" parent="gok3XOKWScSPGN9I4u7a-22" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Git pull" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="gok3XOKWScSPGN9I4u7a-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-27" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-3" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="gok3XOKWScSPGN9I4u7a-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="290" as="sourcePoint" />
+            <mxPoint x="330" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-28" connectable="0" parent="gok3XOKWScSPGN9I4u7a-27" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Git clone" vertex="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-29" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-4" style="endArrow=classic;html=1;rounded=0;exitX=0.025;exitY=0.169;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="310" as="sourcePoint" />
+            <mxPoint x="160" y="214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-30" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-3" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="gok3XOKWScSPGN9I4u7a-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="210" y="310" as="sourcePoint" />
+            <mxPoint x="260" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-31" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="210" as="sourcePoint" />
+            <mxPoint x="180" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-32" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="360" as="sourcePoint" />
+            <mxPoint x="420" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-33" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;i&gt;Git Version Control:&lt;/i&gt;&lt;/b&gt;&amp;nbsp;Git tracks changes locally; GitHub stores snapshots remotely.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="130" x="-70" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-34" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;strong&gt;&lt;i&gt;GitHub&#39;s&lt;/i&gt;&lt;/strong&gt;: Remote hosting, collaboration, visibility, backup.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="130" x="560" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-38" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Git push is designed to connect your local repository to your GitHub Repository. It pushed your files from your local repository to your GitHub Repository.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="320" x="140" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-43" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Key" vertex="1">
+          <mxGeometry height="60" width="220" x="-120" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-44" parent="gok3XOKWScSPGN9I4u7a-43" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="Dotted line: Connected to main line" vertex="1">
+          <mxGeometry height="30" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-47" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.5;base=20;direction=west;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Git Pull does the opposite from Git Push. it allows you to fetch data from your GitHub repository and transfer files to your local repository. it tracks all changes made from GitHub files and transfers and changes your local files in the repository as well.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="120" width="360" x="120" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-48" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Main Features of Git Version Control" vertex="1">
+          <mxGeometry height="180" width="460" x="-180" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-49" parent="gok3XOKWScSPGN9I4u7a-48" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Local Tracking&lt;/b&gt;: All changes made are local on the device" vertex="1">
+          <mxGeometry height="30" width="460" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-50" parent="gok3XOKWScSPGN9I4u7a-48" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Branching:&lt;/b&gt; Can make multiple branches to organize files and repositories." vertex="1">
+          <mxGeometry height="30" width="460" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-51" parent="gok3XOKWScSPGN9I4u7a-48" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Merging&lt;/b&gt;: Can merge files, repositories, folders and more from other repositories on device or merge files pulled from GitHub." vertex="1">
+          <mxGeometry height="30" width="460" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-52" parent="gok3XOKWScSPGN9I4u7a-48" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Staging&lt;/b&gt;: You can stage files for editing that you want to push to GitHub and review files that were changed to be pushed to GitHub." vertex="1">
+          <mxGeometry height="30" width="460" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-53" parent="gok3XOKWScSPGN9I4u7a-48" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Commiting:&lt;/b&gt; Commit changes made to file. This allows files to have changes made to them and tracks those changes with snapshots" vertex="1">
+          <mxGeometry height="30" width="460" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-58" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Main Features of GitHub" vertex="1">
+          <mxGeometry height="180" width="460" x="300" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-59" parent="gok3XOKWScSPGN9I4u7a-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Remote Hosting: &lt;/b&gt;Remote hosting allows for collaboration between people. Uses an open-source control, which allows for hosting to public." vertex="1">
+          <mxGeometry height="30" width="460" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-60" parent="gok3XOKWScSPGN9I4u7a-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Collaboration: &lt;/b&gt;allows multiple to collaborate together on a repository, leading to efficient workspace and flow." vertex="1">
+          <mxGeometry height="30" width="460" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-61" parent="gok3XOKWScSPGN9I4u7a-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Visibility: &lt;/b&gt;Can make repositories public or private. public repositories lead to everyone seeing them, while private can only let specific people see them." vertex="1">
+          <mxGeometry height="30" width="460" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-62" parent="gok3XOKWScSPGN9I4u7a-58" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Backup: &lt;/b&gt;GitHub allows you to store your repositories online, which leads to you have a secondary backup online via cloud. This also allows you to fetch files if ever lost on local machine as well." vertex="1">
+          <mxGeometry height="60" width="460" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-64" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-33" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="350" y="230" as="sourcePoint" />
+            <mxPoint x="-5" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-65" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-10" y="-50" as="sourcePoint" />
+            <mxPoint x="630" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-66" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-34" style="endArrow=none;html=1;rounded=0;exitX=0.538;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="130" as="sourcePoint" />
+            <mxPoint x="630" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-67" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="gok3XOKWScSPGN9I4u7a-33" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-120" y="240" as="sourcePoint" />
+            <mxPoint x="-150" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-68" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-34" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1.024;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="320" as="sourcePoint" />
+            <mxPoint x="760" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-69" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;centralized remote hosting for syncing and sharing&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="760" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-70" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;distributed version control (each user has full repo history)&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="-280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-71" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="gok3XOKWScSPGN9I4u7a-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-73" edge="1" parent="1" source="gok3XOKWScSPGN9I4u7a-2" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="gok3XOKWScSPGN9I4u7a-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-74" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="424" y="220" as="sourcePoint" />
+            <mxPoint x="424" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-75" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="260" as="sourcePoint" />
+            <mxPoint x="180" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gok3XOKWScSPGN9I4u7a-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;GitHub enables pull requests, issue tracking, and team reviews.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="180" y="-80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
