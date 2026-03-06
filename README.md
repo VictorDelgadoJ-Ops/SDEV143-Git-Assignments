@@ -1,4 +1,4 @@
-# Module 3 — Git Version Control 
+# Git Version Control 
 
 *Short summary:*
 This repository contains my Module 3 assignments and shows basic Git workflows. 
